@@ -1,4 +1,5 @@
 program potencia
+uses CRT
 array[2,3,5]=n
 writeln("escribe u numero (n)")
 read(n)
