@@ -1,0 +1,15 @@
+program potencia
+array[2,3,5]=n
+writeln("escribe u numero (n)")
+read(n)
+writeln("escribe la potencia(p)")
+read(p)
+procedure(n^p)
+write result(r)
+writeln("ingresa un numero a comparar(c)")
+read(c)
+procedure(c=r)
+if (c=r) then write ("(c) es potencia de n")
+then procedure(mostrar resultado en pantalla)
+if not then write("(c) no es potencia de (n)")
+end
