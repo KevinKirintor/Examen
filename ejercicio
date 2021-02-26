@@ -1,0 +1,15 @@
+Program Fibonaccises CRT
+Uses CRT
+var
+a=0,b=1,c=a+b
+BEGIN
+writeln("ingrese un numero mayor a 0")
+read(n)
+add(n+c=z)
+end
+writeln(ingrese numero a comnparar(c))
+read(c)
+procedure(c=z)
+if (c=z) write ("(c) pertenece a la serie fibonacci")
+if not write((c) no pertenece a la serie fibonacci")
+END
