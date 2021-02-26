@@ -1,0 +1,13 @@
+Program MAYOR-MENOR
+Uses CRT
+VAR
+numero1,numero2,numero3,numero4:INTERGER;
+function procedure(numero1,numero2,numero3,numero4):INTERGER;
+BEGIN
+write("escriba un numero x);for (numero1)
+write("escriba otro numero x);for (numero2)
+write("escriba otro numero x);for (numero3)
+write("escriba otro numero x);for (numero4)
+procedure(numero1>=<numero2>=<numero3>=<numero4)
+result write("(result) es el mayor
+end
