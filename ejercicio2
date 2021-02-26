@@ -1,0 +1,14 @@
+program colors
+uses CRT
+array[13,7,5,3,2]:=i
+writeln("escriba un numero (n)")
+read(n)
+procedure(n/i=r)
+if (r INTERGER) then write("(r) es divsible  entre (i)")
+if not: procedure(imprimir (r) en color blanco) 
+in case (i=13) then procedure(imprmir en color marron)
+in case (i=7) then procedure(imprimir en color verde)
+in case (i=5) then procedure(imprimir en color rojo)
+in case (i=3) then procedure(imprimir en color azul)
+in case (i=2) then procedure(imprimir en color amarillo)
+end
